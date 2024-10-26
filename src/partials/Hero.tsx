@@ -15,7 +15,8 @@ const Hero = () => (
       }
       description={
         <>
-        I am currently studying in a third-year at Silpakorn University in a major of Computer Science. 
+        I am currently studying in a fourth-year at Silpakorn University in a major of Computer Science.
+        I am an intern at EX10 . 
         I am interested in a mobile ,Full Stack development.
 
           {/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus{' '}
@@ -32,7 +33,7 @@ const Hero = () => (
       avatar={
         <img
           className="h-80 w-64"
-          src="/assets/images/avatar.svg"
+          src="/assets/images/profile.jpg"
           alt="Avatar image"
           loading="lazy"
         />
