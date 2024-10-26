@@ -33,7 +33,7 @@ const Hero = () => (
       avatar={
         <img
           className="h-80 w-70 rounded-full"
-          src="/assets/images/phunsup.png"
+          src="/assets/images/avatar.png"
           alt="Avatar image"
           loading="lazy"
         />
@@ -46,7 +46,7 @@ const Hero = () => (
               alt="Twitter icon"
             />
           </a> */}
-          <a href="https://www.facebook.com/ArtVengerss">
+          <a href="https://www.facebook.com/SPhunsup">
             <HeroSocial
               src="/assets/images/facebook-icon.png"
               alt="Facebook icon"
